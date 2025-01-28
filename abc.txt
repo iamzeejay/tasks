@@ -1,6 +1,9 @@
 Hello World
 How have you been doing?
 Hello World
+<<<<<<< HEAD
 this is change made in main branch
 this is the change made in secondary branch
 heyo
+=======
+>>>>>>> parent of 96d28b8... second commit
